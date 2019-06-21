@@ -1,2 +1,0 @@
-# Firebase
-Cloud Function
